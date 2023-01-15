@@ -1,0 +1,5 @@
+name: Green mile, genre: Drama, rate: 5, year: 2001, price: 800
+name: Green mile, genre: Drama, rate: 5, year: 2001, price: 800
+name: Green mile, genre: Drama, rate: 5, year: 2001, price: 800
+name: Green mile, genre: Drama, rate: 5, year: 2001, price: 800
+name: Green mile, genre: Drama, rate: 5, year: 2001, price: 800
